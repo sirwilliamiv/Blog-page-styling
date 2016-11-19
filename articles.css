@@ -11,7 +11,7 @@ img {
 	max-width: 75%;
 	border-radius: 15%;
 	padding: 2rem;
-	
+
 }
 
 h3, h1 {
@@ -27,3 +27,43 @@ h3, h1 {
 
 	text-align: center;
 }
+
+#one {
+	background-color: #3b3a36;
+	font-family: font-family: "Arial Black", "Arial Bold", Gadget, sans-serif;
+
+}
+
+#two {
+	background-color: #b3c2bf;
+	font-family: font-family: "Arial Narrow", Arial, sans-serif;
+
+}
+
+#three {
+
+	background-color: #c5d5cb;
+	font-family: Consolas, monaco, monospace;
+
+}
+
+#four {
+	background-color: #a8b6bf;
+	font-family: font-family: "Avant Garde", Avantgarde, "Century Gothic", CenturyGothic, "AppleGothic", sans-serif;
+
+
+}
+
+#five {
+
+	background-color: #89bdd3;
+	font-family: font-family: Palatino, "Palatino Linotype", "Palatino LT STD", "Book Antiqua", Georgia, serif;
+
+}
+
+#six {
+	background-color: #fae596;
+	font-family: font-family: Optima, Segoe, "Segoe UI", Candara, Calibri, Arial, sans-serif;
+
+}
+
